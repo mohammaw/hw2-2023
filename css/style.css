@@ -51,7 +51,7 @@ div {
 }
 
 .red p {
-    color: #FFFFFF;
+    color: #FFFFFF !important;
 }
 
 .blue {
@@ -63,7 +63,7 @@ div {
 }
 
 .blue h2 {
-    color: #C4C4C4;
+    color: #C4C4C4 !important;
 }
 
 .yellow {
@@ -87,13 +87,13 @@ div {
 }
 
 .green p {
-    color: #707070; 
+    color: #707070;
 }
 
 
 footer {
-    background: linear-gradient(to bottom, #000000, #0000ff 25%, #0066ff 70%, #000000); 
-    border: 5px solid #FFFFFF; 
+    background: linear-gradient(to bottom, #000000, #0000ff 25%, #0066ff 70%, #000000);
+    border: 5px solid #FFFFFF;
 }
 
 
