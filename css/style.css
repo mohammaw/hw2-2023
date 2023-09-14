@@ -50,12 +50,20 @@ div {
     border-left: 5px solid #FFFFFF;
 }
 
+.red p {
+    color: #FFFFFF;
+}
+
 .blue {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
     border-right: 5px solid #FFFFFF;
     border-top: 2px solid #FFFFFF;
+}
+
+.blue h2 {
+    color: #C4C4C4;
 }
 
 .yellow {
@@ -92,5 +100,4 @@ footer {
 footer p {
     font-size: 20px;
     text-align: right;
-    padding: 15px 15px 15px 0; 
-}
+    padding: 15p
